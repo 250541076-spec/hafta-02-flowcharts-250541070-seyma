@@ -1,3 +1,2 @@
-
-
 sistemin kısa açıklaması (maks. 5-6 satır)
+Üniversite ders kayıt sistemi, öğrencilerin kayıtlı oldukları dönem için ders seçmelerini, seçtikleri derslerin kontenjan, ön koşul ve program çakışmalarını kontrol ederek uygun derslere kayıt olmalarını sağlayan dijital bir platformdur. Sistem; derslerin eklenmesi, çıkarılması, kayıt durumunun görüntülenmesi ve onay süreçlerini yönetir. Böylece öğrencilerin akademik planlamalarını kolaylaştırır ve üniversitenin ders yönetimini düzenler.
