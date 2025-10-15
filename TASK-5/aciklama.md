@@ -1,3 +1,2 @@
-
-
 sistemin kısa açıklaması (maks. 5-6 satır)
+Akıllı ev güvenlik sistemi, evdeki güvenliği sağlamak için çeşitli sensörler, kameralar ve kontrol birimlerini entegre eden, uzaktan izleme ve yönetim imkanı sunan otomatik bir sistemdir. Hırsızlık, yangın, gaz sızıntısı gibi tehlikelere karşı anlık uyarılar gönderir, alarm durumlarında kullanıcıyı ve ilgili yetkilileri bilgilendirir. Ayrıca, sistem mobil uygulama veya web arayüzü üzerinden kontrol edilerek evin güvenliği kullanıcı tarafından kolayca yönetilebilir.
