@@ -1,3 +1,2 @@
-
-
 sistemin kısa açıklaması (maks. 5-6 satır)
+Online alışveriş sepet sistemi, kullanıcıların internet üzerinden ürünleri seçip geçici olarak biriktirebildiği, ürünlerin miktarını değiştirebildiği ve satın alma işlemini tamamlamadan önce siparişlerini gözden geçirebildiği dijital bir araçtır. Sepet, kullanıcı alışveriş yaparken ürünleri saklar ve ödeme aşamasına geçildiğinde siparişin detaylarını yönetir.
