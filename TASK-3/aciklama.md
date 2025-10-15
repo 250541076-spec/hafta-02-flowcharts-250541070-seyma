@@ -1,3 +1,2 @@
-
-
 sistemin kısa açıklaması (maks. 5-6 satır)
+Hastane randevu alma ve tahlil sonuçlarına erişim sistemi, hastaların internet veya mobil uygulama üzerinden doktor randevusu almasını, mevcut randevularını yönetmesini ve yapılan tahlil sonuçlarına güvenli bir şekilde erişmesini sağlayan dijital bir platformdur. Sistem, kullanıcı kimlik doğrulaması yaparak kişisel sağlık verilerinin gizliliğini korur ve hastaların sağlık hizmetlerine daha hızlı ve kolay ulaşmasını amaçlar.
